@@ -1,0 +1,5 @@
+segment,users,arpu_annual,support_cost_per_user,churn_rate
+Retail,"2,400,000",85,42,0.22
+Pro,"520,000",310,68,0.14
+SMB,"230,000","1,250",210,0.08
+Enterprise,"50,000","7,800",950,0.03

@@ -1,0 +1,6 @@
+kpi,owner,cadence,known_issues
+Customer Churn,Product,Monthly,Lagging indicator
+Cost-to-Serve,Ops,Quarterly,No segment visibility
+ARPU,Finance,Monthly,Not tied to retention
+NPS,CX,Quarterly,Survey fatigue
+Automation Rate,Ops,Ad hoc,Not consistently tracked

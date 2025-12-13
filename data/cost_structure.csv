@@ -1,0 +1,6 @@
+function,headcount,avg_cost_per_employee,total_cost
+Customer Support,620,"72,000","44,640,000"
+Operations,310,"95,000","29,450,000"
+Engineering,480,"145,000","69,600,000"
+Compliance & Risk,140,"110,000","15,400,000"
+Sales & Marketing,260,"120,000","31,200,000"
