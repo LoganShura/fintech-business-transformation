@@ -22,7 +22,7 @@ Leadership requested a structured assessment to identify where value is created,
 #
 **Approach**:
 
-• The analysis followed a strategy & operations framework commonly used by internal consulting and transformation teams:
+The analysis followed a strategy & operations framework commonly used by internal consulting and transformation teams:
 
 **1. Baseline Economics**
 
